@@ -1,0 +1,12 @@
+{
+  "name": "HouseShare2",
+  "displayName": "HouseShare2",
+  "expo": {
+    "name": "HouseShare2",
+    "slug": "HouseShare2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
