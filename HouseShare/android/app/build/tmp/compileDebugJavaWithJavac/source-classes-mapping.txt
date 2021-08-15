@@ -1,0 +1,17 @@
+com/houseshare/ReactNativeFlipper.java
+ com.houseshare.ReactNativeFlipper
+ com.houseshare.ReactNativeFlipper$1
+ com.houseshare.ReactNativeFlipper$2
+ com.houseshare.ReactNativeFlipper$2$1
+com/houseshare/BuildConfig.java
+ com.houseshare.BuildConfig
+com/houseshare/MainActivity.java
+ com.houseshare.MainActivity
+ com.houseshare.MainActivity$1
+com/houseshare/MainApplication.java
+ com.houseshare.MainApplication
+ com.houseshare.MainApplication$1
+com/houseshare/generated/BasePackageList.java
+ com.houseshare.generated.BasePackageList
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
